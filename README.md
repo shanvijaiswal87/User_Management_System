@@ -19,7 +19,7 @@ This is a User Management System built using React.js, Express.js, Node.js, MySQ
 ## Setup Instructions
    
   #### Clone the repository:
-  `git clone <repository-url>`
+  `git clone https://github.com/shanvijaiswal87/User_Management_System/tree/master`
 
   #### Install dependencies:
   `cd user-management-system`
